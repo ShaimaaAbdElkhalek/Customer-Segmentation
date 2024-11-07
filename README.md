@@ -75,7 +75,7 @@ The **Customer Personality Analysis** dataset, available on [Kaggle](https://www
 
 To run the code and reproduce the results, you need the following Python libraries:
 
-```bash
+
 pandas
 numpy
 matplotlib
